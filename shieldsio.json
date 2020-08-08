@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "label": "Scripts",
   "message": "JavaScript, Python, DOS Shell",
-  "color": "blue"
+  "color": "blue",
   "style": "for-the-badge"
 }
