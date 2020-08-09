@@ -11,11 +11,12 @@ Scripts genericos
 
 ![Ex5 Badge](https://img.shields.io/badge/Jorge%20Nery--blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 
-IDE´s:&nbsp;
-[![vscode Badge](https://img.shields.io/badge/--blue?logo=visual-studio-code&logoColor=white)]()
-[![android-studio Badge](https://img.shields.io/badge/--blue?logo=android-studio&logoColor=white)]()
-[![IJ Badge](https://img.shields.io/badge/--blue?logo=intellij-idea&logoColor=white)]()
-[![PyCharm Badge](https://img.shields.io/badge/--blue?logo=pycharm&logoColor=white)]()
+[![one](https://img.shields.io/badge/Comunidade-Digital&nbsp;Inovvation&nbsp;One-blueviolet?style=for-the-badge)](https://digitalinnovation.one/sign-up?ref=ADHPNDRZN9)
+
+[![one 66E0E0AF](https://img.shields.io/badge/Certificado-Cloud&nbsp;Computing&nbsp;e&nbsp;Serverless-blueviolet?style=flat-square&logo=microsoft-azure)](https://certificates.digitalinnovation.one/66E0E0AF)
+[![one 850D0B8D](https://img.shields.io/badge/Certificado-FULLstack&nbsp;Developer-blueviolet?style=flat-square&logo=javascript)](https://certificates.digitalinnovation.one/850D0B8D)
+[![one 850D0B8D](https://img.shields.io/badge/Certificado-FULLstack&nbsp;Python-blueviolet?style=flat-square&logo=python)](https://certificates.digitalinnovation.one/53E3C5AA)
+[![one 8ADEABF0](https://img.shields.io/badge/Certificado-BackEnd&nbsp;Developer-blueviolet?style=flat-square&logo=java)](https://certificates.digitalinnovation.one/8ADEABF0)
 
 ### Skills
 <!-- #### Senior (Muito Boa Experiencia) -->
