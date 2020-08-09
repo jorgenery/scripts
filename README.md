@@ -82,4 +82,4 @@ IDE´s:&nbsp;
 [![R Badge](https://img.shields.io/badge/R-Learning-white?logo=r&logoColor=white&color=black)](https://docs.rstudio.com/)
 [![Alexa Badge](https://img.shields.io/badge/Alexa-Learning-white?logo=amazon-alexa&logoColor=white&color=black)](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/start)
 [![Elixir Badge](https://img.shields.io/badge/Elixir-Learning-white?logo=elixir&logoColor=white&color=black)](https://elixirschool.com/pt/lessons/basics/documentation/)
-[![IBM Badge](https://img.shields.io/badge/IBM&nbspWhatson-Learning-white?logo=ibm&logoColor=white&color=black)](https://maratona.dev/pt)
+[![IBM Badge](https://img.shields.io/badge/IBM&nbsp;Whatson-Learning-white?logo=ibm&logoColor=white&color=black)](https://maratona.dev/pt)
